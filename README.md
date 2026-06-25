@@ -5,7 +5,7 @@ I'm a Computer Science student and developer passionate about creating modern we
 ## Areas of Interest
 
 * 🤖 Artificial Intelligence & Machine Learning
-* 📱 Mobile Application Development
+* 📲 Android Development
 * 🌐 Frontend Web Development
 * ⚡ Modern JavaScript Ecosystem
 * 🚀 Problem Solving 
@@ -25,11 +25,11 @@ I'm a Computer Science student and developer passionate about creating modern we
 * Flutter (Learning)
 * React Native (Learning)
 
-### AI & Data
+### AI & Machine Learning
 
 * Python
 * Pandas
-* Nupmy
+* NumPy
 * Scikit-Learn
 * Machine Learning
 * Generative AI
@@ -37,8 +37,10 @@ I'm a Computer Science student and developer passionate about creating modern we
 
 ### Tools
 
-* Git & GitHub
+* Git
+* GitHub
 * VS Code
+* Android Studio
 ### Databases
 - MySQL
 - Firebase
